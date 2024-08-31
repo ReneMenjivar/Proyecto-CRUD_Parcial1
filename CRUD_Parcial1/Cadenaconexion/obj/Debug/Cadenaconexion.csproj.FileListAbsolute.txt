@@ -1,0 +1,10 @@
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\bin\Debug\Cadenaconexion.exe.config
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\bin\Debug\Cadenaconexion.exe
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\bin\Debug\Cadenaconexion.pdb
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.exe
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.pdb
+C:\Users\diego\OneDrive\Documentos\Cadenaconexion_parcial1_progra2-master\Cadenaconexion_parcial1_progra2-master\Cadenaconexion\obj\Debug\Cadenaconexion.Tienda.resources
